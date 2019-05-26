@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DA4C1149-A77C-45AF-A4F7-F7515C724240}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Receive.cs">
+    <Files>
+      <File FileName="Receive.cs" Line="11" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Receive PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
